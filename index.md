@@ -4,7 +4,7 @@ ISF stands for "Interactive Shader Format", and is a file format that describes 
 
 ## Downloads, sample files, and source code
 
-#### Downloads
+#### ISF Editor For Mac
 
 - An ISF editor and test app is available here: 
 [ISF Editor.app.zip](http://www.vidvox.net/rays_oddsnends/ISF%20Editor_2.9.3.zip).  These are some of its basic features:
